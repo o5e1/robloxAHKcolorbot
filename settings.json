@@ -1,0 +1,40 @@
+{
+    "AHK": {
+        "Keys": {
+            "Togglekey": "RButton",
+            "Pause": "Esc",
+            "Reload": "R"
+        },
+        "Colour": {
+            "Colouring": 10
+        },
+        "Spline": {
+            "LinearCurvingX": 0.345,
+            "LinearCurvingY": 0.345
+        },
+        "Smoothing": {
+            "SmoothingX": 28,
+            "SmoothingY": 48,
+            "SmoothingMultiplierX": 2.75,
+            "SmoothingMultiplierY": 2.75,
+            "SmoothingSeparatorX": 175,
+            "SmoothingSeparatorY": 175,
+            "Predicting": {
+                "Enabled": false,
+                "Mode": "Ideal",
+                "PredictingX": 10,
+                "PredictingY": 18
+            }
+        },
+        "Fov": {
+            "FovOffsetX": 6.5,
+            "FovOffsetY": 6.5
+        },
+         "Misc": {
+            "AimbotUpdateTick": 600,
+            "AimbotUpdateMS": 1000,
+            "CameraToGunFov": 90,
+            "FlickTime" : 0
+        }
+    }
+}
